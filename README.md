@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 💪 Day 1: Started my GitHub journey - 2026.05.01
-💪 Day 2: Learned AI climbs down hills to fix mistakes-->
+💪 Day 2: Learned AI climbs down hills to fix mistakes
+💪 Day 3: Gradient = කන්දේ බෑවුම කියලා තේරුණා-->
