@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-💪 Day 1: Started my GitHub journey - 2026.05.01-->
+💪 Day 1: Started my GitHub journey - 2026.05.01
+💪 Day 2: Learned AI climbs down hills to fix mistakes-->
