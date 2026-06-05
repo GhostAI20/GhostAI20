@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 💪 Day 3: Gradient = කන්දේ බෑවුම කියලා තේරුණා
 💪 Day 4: Explained AI to a friend - teaching = learning x2
 💪 Day 5: Streak = 5 days. A/L + GitHub දෙකම කරගන්න පුළුවන් කියලා ඔප්පු කලා
+💪 Day 6: UTC 9pm Rule. Streak = 6 days. Date bug එකට උනත් වැඩේ කඩ කරන්නේ නෑ
