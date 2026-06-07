@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 💪 Day 5: Streak = 5 days. A/L + GitHub දෙකම කරගන්න පුළුවන් කියලා ඔප්පු කලා
 💪 Day 6: UTC 9pm Rule. Streak = 6 days. Date bug එකට උනත් වැඩේ කඩ කරන්නේ නෑ
 💪 **Day 7**: UTC Time Zone Bug Fix + Version Control Log. Lanka 22.32 = GitHub 17.02 UTC. 9pm Rule + Daily Commit = Save Point activated ✅
+### **Day 8**: Markdown Formatting Mastered
+- **UTC Bug Fix** - Time zone confusion solved 
+- **Version Control Log** - Daily commit habit locked
+- **Markdown** - Headings + Lists + Bold use කරන්න දන්නවා ✅
