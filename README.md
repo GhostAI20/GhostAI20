@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 - **UTC Bug Fix** - Time zone confusion solved 
 - **Version Control Log** - Daily commit habit locked
 - **Markdown** - Headings + Lists + Bold use කරන්න දන්නවා ✅
+### **Day 9**: Created First Branch
+- **Branch** = main එකට අවුලක් නැතුව test කරන තැන ✅
+- **Experiment Zone** unlocked
