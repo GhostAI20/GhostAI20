@@ -1,3 +1,7 @@
+[Last Commit](https://img.shields.io/github/last-commit/GhostAI20/GhostAI20)
+[Repo Size](https://img.shields.io/github/repo-size/GhostAI20/GhostAI20)
+[License](https://img.shields.io/github/license/GhostAI20/GhostAI20)
+
 ## Hi there 👋
 
 
