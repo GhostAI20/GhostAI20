@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 ### **Day 9**: Created First Branch
 - **Branch** = main එකට අවුලක් නැතුව test කරන තැන ✅
 - **Experiment Zone** unlocked
+### **Branch Update - Day 10** 
+- Edited in branch zone 🧪
