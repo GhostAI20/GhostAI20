@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 - **Markdown** - Headings + Lists + Bold use කරන්න දන්නවා ✅
 ### **Day 9**: Created First Branch
 - **Branch** = main එකට අවුලක් නැතුව test කරන තැන ✅
-- **Experiment Zone** unlocked
-
+- Experiment Zone unlocked ⚡
 ### **Main Branch Update - Day 10**
 - Edited directly in main ⚡
