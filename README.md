@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 - **Experiment Zone** unlocked 🧪
  ### **Branch Update - Day 10** 
 - Edited in branch zone 🧪
+- Experiment Zone unlocked ⚡
+### **Main Branch Update - Day 10**
+- Edited directly in main ⚡
