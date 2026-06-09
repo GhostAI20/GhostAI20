@@ -32,4 +32,9 @@ Here are some ideas to get you started:
 - Edited in branch zone 🧪
 - Experiment Zone unlocked ⚡
 ### **Main Branch Update - Day 10**
-- Edited directly in main ⚡
+[Last Commit](https://img.shields.io/github/last-commit/GhostAI20/GhostAI20)
+[Repo Size](https://img.shields.io/github/repo-size/GhostAI20/GhostAI20)
+[License](https://img.shields.io/github/license/GhostAI20/GhostAI20)
+
+# GhostAI20 - My GitHub Journey
+
