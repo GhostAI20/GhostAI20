@@ -1,6 +1,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/GhostAI20/GhostAI20)
 ![Repo Size](https://img.shields.io/github/repo-size/GhostAI20/GhostAI20)
 ![License](https://img.shields.io/github/license/GhostAI20/GhostAI20)
+![Profile Views](https://komarev.com/ghpvc/?username=GhostAI20&color=blue)
 
 ## Hi there 👋
 
