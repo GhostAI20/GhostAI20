@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 ![Repo Size](https://img.shields.io/github/repo-size/GhostAI20/GhostAI20)
 ![License](https://img.shields.io/github/license/GhostAI20/GhostAI20)
 
-# GhostAI20 - My GitHub Journey
+A/L Focus Mode-Maths+ICT+PHYSICS revision
 
