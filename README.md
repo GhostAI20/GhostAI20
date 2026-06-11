@@ -42,4 +42,8 @@ Here are some ideas to get you started:
 ![License](https://img.shields.io/github/license/GhostAI20/GhostAI20)
 
 A/L Focus Mode-Maths+ICT+PHYSICS revision
+## Day 12 Update
+   - A/L Maths + ICT revision in progress
+   - Focus mode: Exam priority
+   - Back to coding after A/L 💪
 
