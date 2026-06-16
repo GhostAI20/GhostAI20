@@ -3,47 +3,36 @@
 ![License](https://img.shields.io/github/license/GhostAI20/GhostAI20)
 ![Profile Views](https://komarev.com/ghpvc/?username=GhostAI20&color=blue)
 
-## Hi there 👋
 
+### Hi, I'm Naduni 👋 | GhostAI20
 
-**GhostAI20/GhostAI20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *GCE A/L 2026 Student* - Physical Science with ICT | Ananda Sastralaya National School  
+💻 *Aspiring Cyber Security Engineer* with a passion for Python & Version Control  
+🇱🇰 Based in Colombo, Sri Lanka
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔭 Current Projects
+- *partial-fraction-calculator*: REST API built with Python & Flask for solving algebraic expressions
+- *GhostAI20*: Exploring Conversational AI and NLP concepts
 
-💪 Day 1: Started my GitHub journey - 2026.05.01
-💪 Day 2: Learned AI climbs down hills to fix mistakes
-💪 Day 3: Gradient = කන්දේ බෑවුම කියලා තේරුණා
-💪 Day 4: Explained AI to a friend - teaching = learning x2
-💪 Day 5: Streak = 5 days. A/L + GitHub දෙකම කරගන්න පුළුවන් කියලා ඔප්පු කලා
-💪 Day 6: UTC 9pm Rule. Streak = 6 days. Date bug එකට උනත් වැඩේ කඩ කරන්නේ නෑ
-💪 **Day 7**: UTC Time Zone Bug Fix + Version Control Log. Lanka 22.32 = GitHub 17.02 UTC. 9pm Rule + Daily Commit = Save Point activated ✅
-### **Day 8**: Markdown Formatting Mastered
-- **UTC Bug Fix** - Time zone confusion solved 
-- **Version Control Log** - Daily commit habit locked
-- **Markdown** - Headings + Lists + Bold use කරන්න දන්නවා ✅
-### **Day 9**: Created First Branch
-- **Branch** = main එකට අවුලක් නැතුව test කරන තැන ✅
-- **Experiment Zone** unlocked 🧪
- ### **Branch Update - Day 10** 
-- Edited in branch zone 🧪
-- Experiment Zone unlocked ⚡
-### **Main Branch Update - Day 10**
-![Last Commit](https://img.shields.io/github/last-commit/GhostAI20/GhostAI20)
-![Repo Size](https://img.shields.io/github/repo-size/GhostAI20/GhostAI20)
-![License](https://img.shields.io/github/license/GhostAI20/GhostAI20)
+### 🌱 What I'm Learning
+Python Flask Git & GitHub Cyber Security Java Prompt Engineering Robotics
 
-A/L Focus Mode-Maths+ICT+PHYSICS revision
-## Day 12 Update
-   - A/L Maths + ICT revision in progress
-   - Focus mode: Exam priority
-   - Back to coding after A/L 💪
+### 🏆 Certifications - 2026
+- *Information Security* - Saylor Academy
+- *Python Developer* - Sololearn  
+- *Prompt Engineering* - Sololearn
+- *Introduction to Java* - Sololearn
+- *Innovation through Robotics* - SouthernIRAA
+
+### 📊 GitHub Stats
+[GhostAI20's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhostAI20&show_icons=true&theme=tokyonight)
+
+### 📫 Connect with Me
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/naduni-umeda)
+
+---
+📓 *My Learning Journey:* Check out my [Day 1 to Day 12 GitHub Log](https://github.com/GhostAI20/learning-journey)  
+⚡ *Fun Fact:* I learned to resolve Git Merge Conflicts before my A/Ls. Debugging > Exam stress 😂
 
